@@ -3,7 +3,7 @@
   box-sizing: border-box;
   z-index: -10;
   height:calc(100% - 90px);
-  background-image: url('../TR/BANNER/IMGS/баннер 2369.jpg');
+  background-image: url('/BANNER/IMGS/баннер 2369.jpg');
   background-position: auto;
   background-size: 100% 100%; 
 }
