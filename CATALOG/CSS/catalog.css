@@ -58,19 +58,19 @@
 }
 
 .catalog__item:nth-child(1) {
-  background: url('/CATALOG/IMGS/thumb_2305_1.jpg');
+  background: url('../TR/CATALOG/IMGS/thumb_2305_1.jpg');
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
 
 .catalog__item:nth-child(2) {
-  background: url('/CATALOG/IMGS/thumb_2314_1.jpg');
+  background: url('../TR/CATALOG/IMGS/thumb_2314_1.jpg');
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
 
 .catalog__item:nth-child(3) {
-  background: url('/CATALOG/IMGS/thumb_2319_1.jpg');
+  background: url('../TR/CATALOG/IMGS/thumb_2319_1.jpg');
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
